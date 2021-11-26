@@ -3,7 +3,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-class Read
+class ReadUsingInputStream
 {
 
 	public static void main(String args[])
